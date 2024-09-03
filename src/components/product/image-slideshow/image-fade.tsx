@@ -3,7 +3,7 @@ import React from "react";
 import Image from "next/image";
 
 // Import CSS
-import "./style-image-fade.css";
+import "./style/image-fade.css";
 
 interface ImageFadeProps {
   images: string[];
